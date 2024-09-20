@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  text-align: center;
+  padding-block: 50px;
+  padding-inline: 30px;
+}
+.h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 80px;
+  margin-bottom: 40px;
+}
+.instuction {
+  font-size: 38px;
+  margin-bottom: 40px;
+}
+.btn {
+  color: #fff;
+  padding: 30px 70px;
+  background-color: blue;
+  margin-bottom: 40px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: green;
+}
+
+.quote,
+.author {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
